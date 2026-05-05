@@ -1,0 +1,933 @@
+{
+  "generated_at_utc": "2026-05-05T09:30:03.170330Z",
+  "total_processed": 480,
+  "total_birds_identified": 143,
+  "no_bird": 336,
+  "low_confidence_filtered": 0,
+  "failures": 1,
+  "species_count": 7,
+  "min_confidence": 0.5,
+  "species": [
+    {
+      "name": "Australian Ringneck",
+      "slug": "australian-ringneck",
+      "count": 125,
+      "cover_thumb": "P5045227.webp",
+      "avg_confidence": 0.94,
+      "entries": [
+        {
+          "photo_id": "P5045227.JPG",
+          "thumb": "P5045227.webp",
+          "caption": "A green parrot with a black head, red forehead, and yellow collar perches on a branch with its eyes closed.",
+          "confidence": 0.98
+        },
+        {
+          "photo_id": "P5045229.JPG",
+          "thumb": "P5045229.webp",
+          "caption": "A green parrot with a dark head, a red band above its beak, and a yellow collar perches on a branch amidst dense foliage.",
+          "confidence": 0.98
+        },
+        {
+          "photo_id": "P5045243.JPG",
+          "thumb": "P5045243.webp",
+          "caption": "A vibrant green parrot with a black head, red forehead band, blue cheeks, and a distinct yellow collar perches on a branch.",
+          "confidence": 0.98
+        },
+        {
+          "photo_id": "P5045252.JPG",
+          "thumb": "P5045252.webp",
+          "caption": "A colorful Australian Ringneck parrot displays its distinctive black head, yellow collar, and red frontal band while perched on a branch.",
+          "confidence": 0.98
+        },
+        {
+          "photo_id": "P5045345.JPG",
+          "thumb": "P5045345.webp",
+          "caption": "A green parrot with a black head, red forehead band, and yellow neck collar is perched while holding food in its foot.",
+          "confidence": 0.98
+        },
+        {
+          "photo_id": "P5044981.JPG",
+          "thumb": "P5044981.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head perches among the branches and cones of a conifer tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5044988.JPG",
+          "thumb": "P5044988.webp",
+          "caption": "A green parrot with a dark head and a distinctive yellow collar perches among the branches of a tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5044996.JPG",
+          "thumb": "P5044996.webp",
+          "caption": "A green parrot with a black head, yellow collar, and a red forehead patch is perched among tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045005.JPG",
+          "thumb": "P5045005.webp",
+          "caption": "A green parrot with a black head and a prominent yellow collar is perched on a branch amidst dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045008.JPG",
+          "thumb": "P5045008.webp",
+          "caption": "A green parrot with a distinctive yellow collar and black head is perched among the branches of a tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045009.JPG",
+          "thumb": "P5045009.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head is perched among the dense branches of a tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045018.JPG",
+          "thumb": "P5045018.webp",
+          "caption": "A green parrot with a distinctive red forehead and yellow collar is perched among the branches of a tree with woody seed pods.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045034.JPG",
+          "thumb": "P5045034.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head is perched among tree branches, possibly feeding on a seed pod.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045113.JPG",
+          "thumb": "P5045113.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar is perched among branches, appearing to feed on a seed pod.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045115.JPG",
+          "thumb": "P5045115.webp",
+          "caption": "A green parrot with a blue head and a prominent yellow collar is perched in a tree, feeding on a seed pod.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045120.JPG",
+          "thumb": "P5045120.webp",
+          "caption": "A green parrot with a dark head, blue cheeks, and a prominent yellow neck collar is perched in a tree feeding on seed pods.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045121.JPG",
+          "thumb": "P5045121.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head is perched among dense evergreen branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045126.JPG",
+          "thumb": "P5045126.webp",
+          "caption": "A green parrot with a dark head, yellow collar, and red forehead patch perches among dense branches while feeding.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045129.JPG",
+          "thumb": "P5045129.webp",
+          "caption": "A green parrot with a black head, red forehead, and yellow collar is perched among dense branches, holding a seed pod in its beak.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045133.JPG",
+          "thumb": "P5045133.webp",
+          "caption": "A green parrot with a dark head, blue cheeks, and a prominent yellow collar is perched among dense conifer branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045134.JPG",
+          "thumb": "P5045134.webp",
+          "caption": "A green parrot with a dark head, yellow collar, and a distinctive red band above its beak perches among the branches of a coniferous tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045135.JPG",
+          "thumb": "P5045135.webp",
+          "caption": "A green parrot with a dark head, yellow collar, and a red patch above its beak perches among dense pine needles.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045137.JPG",
+          "thumb": "P5045137.webp",
+          "caption": "A green parrot with a dark head and prominent yellow collar is perched among pine branches, holding a seed pod in its foot.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045153.JPG",
+          "thumb": "P5045153.webp",
+          "caption": "A green parrot with a black head, yellow collar, and a red band above its beak perches among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045155.JPG",
+          "thumb": "P5045155.webp",
+          "caption": "A green parrot with a black head and a bright yellow collar is perched among the dense branches of a pine tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045166.JPG",
+          "thumb": "P5045166.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar perches among the dense needles of a coniferous tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045167.JPG",
+          "thumb": "P5045167.webp",
+          "caption": "A green parrot with a distinctive yellow collar and blue wings perches amidst dense coniferous branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045168.JPG",
+          "thumb": "P5045168.webp",
+          "caption": "A green parrot with a dark head and a distinctive yellow collar perches among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045169.JPG",
+          "thumb": "P5045169.webp",
+          "caption": "A bright green parrot with a distinct yellow collar and dark head is perched among the dense branches of a tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045171.JPG",
+          "thumb": "P5045171.webp",
+          "caption": "A green parrot with a black head, yellow collar, and a distinctive red band above its beak is perched among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045173.JPG",
+          "thumb": "P5045173.webp",
+          "caption": "A green parrot with a black head and a distinctive yellow collar perches among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045174.JPG",
+          "thumb": "P5045174.webp",
+          "caption": "A green parrot with a dark head, red frontal band, and a prominent yellow collar perches among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045180.JPG",
+          "thumb": "P5045180.webp",
+          "caption": "A green parrot with a dark head and yellow collar is perched in a tree, using its foot to hold a seed pod while feeding.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045182.JPG",
+          "thumb": "P5045182.webp",
+          "caption": "A green parrot with a dark head, red forehead, and a prominent yellow collar perches among tree branches against a clear blue sky.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045186.JPG",
+          "thumb": "P5045186.webp",
+          "caption": "A green parrot with a dark head and yellow collar is perched among coniferous branches, feeding on a seed pod against a clear blue sky.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045202.JPG",
+          "thumb": "P5045202.webp",
+          "caption": "A green parrot with a dark head, red forehead, and a yellow collar perches on a branch within a coniferous tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045209.JPG",
+          "thumb": "P5045209.webp",
+          "caption": "A green parrot with a dark head, a distinctive red forehead patch, and a long blue tail perches among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045214.JPG",
+          "thumb": "P5045214.webp",
+          "caption": "A green parrot with a black head, yellow collar, and a long blue tail perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045218.JPG",
+          "thumb": "P5045218.webp",
+          "caption": "A green parrot with a dark head, red forehead band, and a distinctive yellow collar perches on a branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045220.JPG",
+          "thumb": "P5045220.webp",
+          "caption": "A green parrot with a distinctive yellow collar, blue cheeks, and a red band above its beak perches among tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045221.JPG",
+          "thumb": "P5045221.webp",
+          "caption": "A green parrot with a black head, red frontal band, and a yellow collar perches on a branch amidst dense green foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045225.JPG",
+          "thumb": "P5045225.webp",
+          "caption": "A vibrant green parrot with a dark head, a red band across its forehead, and a distinctive yellow collar perches on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045231.JPG",
+          "thumb": "P5045231.webp",
+          "caption": "A green parrot with a dark head, red forehead band, and yellow neck collar perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045233.JPG",
+          "thumb": "P5045233.webp",
+          "caption": "A green parrot with a dark head, red frontal band, and a yellow collar perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045236.JPG",
+          "thumb": "P5045236.webp",
+          "caption": "A green parrot with a blue head, a red forehead band, and a yellow collar perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045240.JPG",
+          "thumb": "P5045240.webp",
+          "caption": "A green parrot with a distinctive yellow neck collar and a red band above its beak perches on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045241.JPG",
+          "thumb": "P5045241.webp",
+          "caption": "A green parrot with a distinctive red forehead, yellow collar, and blue cheeks perches among tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045242.JPG",
+          "thumb": "P5045242.webp",
+          "caption": "A vibrant green parrot with a black head, red forehead, and a distinctive yellow collar perches on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045245.JPG",
+          "thumb": "P5045245.webp",
+          "caption": "A vibrant parrot with a black head, red forehead, and yellow collar perches on a branch amidst green foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045247.JPG",
+          "thumb": "P5045247.webp",
+          "caption": "A vibrant parrot with a black head, red forehead band, and green scalloped plumage perches on a branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045249.JPG",
+          "thumb": "P5045249.webp",
+          "caption": "A vibrant green parrot with a black head, red forehead, and a distinctive yellow collar perches on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045257.JPG",
+          "thumb": "P5045257.webp",
+          "caption": "A green parrot with a dark head, red forehead, and a prominent yellow collar perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045266.JPG",
+          "thumb": "P5045266.webp",
+          "caption": "A green parrot with a dark head, a red forehead band, and a prominent yellow collar perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045272.JPG",
+          "thumb": "P5045272.webp",
+          "caption": "A green parrot with a dark head, red forehead, and a prominent yellow collar perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045273.JPG",
+          "thumb": "P5045273.webp",
+          "caption": "A green parrot with a dark head, a distinctive yellow collar, and a red band above its beak perches on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045276.JPG",
+          "thumb": "P5045276.webp",
+          "caption": "A green parrot with a dark head, yellow collar, and red forehead perches among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045277.JPG",
+          "thumb": "P5045277.webp",
+          "caption": "A green parrot with a long blue tail, a dark head featuring a red forehead patch, and a distinctive yellow collar perches on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045278.JPG",
+          "thumb": "P5045278.webp",
+          "caption": "A green parrot with a dark head, red forehead, and a prominent yellow collar perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045280.JPG",
+          "thumb": "P5045280.webp",
+          "caption": "A vibrant green parrot with a dark head, red forehead, and a yellow neck collar perches among tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045281.JPG",
+          "thumb": "P5045281.webp",
+          "caption": "A green parrot with a dark head, a distinctive red forehead band, and a yellow collar perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045285.JPG",
+          "thumb": "P5045285.webp",
+          "caption": "A vibrant green parrot with a dark head, a red band above its beak, and a distinctive yellow collar perches on a branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045293.JPG",
+          "thumb": "P5045293.webp",
+          "caption": "A vibrant green parrot with a black head, a red forehead band, and a distinctive yellow collar perches on a branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045295.JPG",
+          "thumb": "P5045295.webp",
+          "caption": "A colorful parrot with a dark head, red forehead, and yellow collar rests on a branch with its eyes closed.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045296.JPG",
+          "thumb": "P5045296.webp",
+          "caption": "A vibrant parrot with a green body, black head, red forehead, and a distinct yellow collar perches on a branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045298.JPG",
+          "thumb": "P5045298.webp",
+          "caption": "A green parrot with a black head, yellow collar, and a red band above its beak perches on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045299.JPG",
+          "thumb": "P5045299.webp",
+          "caption": "A vibrant green parrot with a black head, yellow collar, and blue facial markings rests on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045302.JPG",
+          "thumb": "P5045302.webp",
+          "caption": "A vibrant green parrot with a black head, yellow neck collar, and a distinctive red band above its beak perched on a branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045309.JPG",
+          "thumb": "P5045309.webp",
+          "caption": "A vibrant green parrot with a black head, yellow collar, and red forehead band perches on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045318.JPG",
+          "thumb": "P5045318.webp",
+          "caption": "A green parrot with a black head and a distinctive yellow collar is perched on a ledge while feeding.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045320.JPG",
+          "thumb": "P5045320.webp",
+          "caption": "A green parrot with a distinctive black head and yellow collar perches on a wall amidst leafy branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045322.JPG",
+          "thumb": "P5045322.webp",
+          "caption": "A bright green parrot with a distinctive black head and yellow collar perches on a metal fence.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045325.JPG",
+          "thumb": "P5045325.webp",
+          "caption": "A green parrot with a black head, red forehead band, and yellow collar is perched on a ledge while eating.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045335.JPG",
+          "thumb": "P5045335.webp",
+          "caption": "A green parrot with a black head, yellow collar, and a distinctive red patch above its beak is seen holding food in its claw while perched.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045349.JPG",
+          "thumb": "P5045349.webp",
+          "caption": "A green parrot with a black head, yellow collar, and red frontal band is perched on a fence while holding food in its foot.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045351.JPG",
+          "thumb": "P5045351.webp",
+          "caption": "A green parrot with a black head, a prominent yellow collar, and a red band above its beak is perched on a branch while feeding.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045357.JPG",
+          "thumb": "P5045357.webp",
+          "caption": "A vibrant green parrot with a black head, yellow collar, and red forehead patch is perched on a ledge while eating.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045364.JPG",
+          "thumb": "P5045364.webp",
+          "caption": "A green parrot with a black head, yellow collar, and blue cheeks is perched on a ledge while holding food in its foot.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045366.JPG",
+          "thumb": "P5045366.webp",
+          "caption": "A green parrot with a black head, yellow collar, and a distinctive red patch above its beak is perched near a tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045367.JPG",
+          "thumb": "P5045367.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar perches on a branch while feeding.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045379.JPG",
+          "thumb": "P5045379.webp",
+          "caption": "A parrot with a dark head and a distinctive yellow collar is perched among the branches of a coniferous tree against a blue sky.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045380.JPG",
+          "thumb": "P5045380.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar perches among pine branches against a bright sky.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045397.JPG",
+          "thumb": "P5045397.webp",
+          "caption": "A green parrot with a dark head and yellow collar is perched on a branch, feeding on a small cone.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045399.JPG",
+          "thumb": "P5045399.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head perches among tree branches while feeding on a seed pod.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045400.JPG",
+          "thumb": "P5045400.webp",
+          "caption": "A green parrot with a dark head and a distinctive yellow collar is perched in a tree, using its foot to hold a seed pod while feeding.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045401.JPG",
+          "thumb": "P5045401.webp",
+          "caption": "A green Australian Ringneck with a distinctive dark head and yellow collar perches among tree branches while feeding.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045403.JPG",
+          "thumb": "P5045403.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head perches among tree branches while feeding.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045408.JPG",
+          "thumb": "P5045408.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar is perched on a branch while feeding on a seed pod.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045413.JPG",
+          "thumb": "P5045413.webp",
+          "caption": "A green parrot with a dark head and red forehead perches on a branch while feeding on a seed pod.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045416.JPG",
+          "thumb": "P5045416.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head perches on a branch while holding food in its foot.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045421.JPG",
+          "thumb": "P5045421.webp",
+          "caption": "A green parrot with a dark head, red forehead, and yellow collar perches upside down on a branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045433.JPG",
+          "thumb": "P5045433.webp",
+          "caption": "A green parrot with a black head, a prominent yellow collar, and a red patch above its beak perches on a tree branch.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045434.JPG",
+          "thumb": "P5045434.webp",
+          "caption": "A green parrot with a black head, a distinctive yellow collar, and a red band above its beak perches among tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045449.JPG",
+          "thumb": "P5045449.webp",
+          "caption": "A green parrot with a black head, red forehead, and a prominent yellow collar perches among the branches and cones of a coniferous tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5044983.JPG",
+          "thumb": "P5044983.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head perches among dense, seed-bearing branches.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5044998.JPG",
+          "thumb": "P5044998.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head is perched among dense tree branches.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5044999.JPG",
+          "thumb": "P5044999.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head perches among dense tree branches.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045004.JPG",
+          "thumb": "P5045004.webp",
+          "caption": "A green parrot with a black head and a prominent yellow collar is perched among dense, fine-leaved tree branches.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045011.JPG",
+          "thumb": "P5045011.webp",
+          "caption": "A green parrot with a dark head, red forehead, and yellow collar is perched among the branches of a tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045016.JPG",
+          "thumb": "P5045016.webp",
+          "caption": "An Australian Ringneck parrot with a distinctive yellow collar and dark head is perched among the branches of a tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045019.JPG",
+          "thumb": "P5045019.webp",
+          "caption": "A green parrot with a dark head, red forehead, and a prominent yellow collar is perched among the branches of a tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045023.JPG",
+          "thumb": "P5045023.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head is perched among the branches of a tree with small seed pods.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045025.JPG",
+          "thumb": "P5045025.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar perches among dense, twiggy branches.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045027.JPG",
+          "thumb": "P5045027.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar is perched among the branches and seed pods of a tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045029.JPG",
+          "thumb": "P5045029.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar is perched among the branches of a tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045032.JPG",
+          "thumb": "P5045032.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar is perched among tree branches.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045048.JPG",
+          "thumb": "P5045048.webp",
+          "caption": "A green parrot with a distinctive yellow collar perches among the dense branches of a tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045053.JPG",
+          "thumb": "P5045053.webp",
+          "caption": "A green parrot with a dark head, red forehead, and yellow collar perches among dense branches and seed pods.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045061.JPG",
+          "thumb": "P5045061.webp",
+          "caption": "A green parrot with a distinctive yellow collar and red forehead patch is perched among thin tree branches.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045064.JPG",
+          "thumb": "P5045064.webp",
+          "caption": "A green parrot with a distinctive yellow collar on its nape is perched among dense tree branches against a blue sky.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045075.JPG",
+          "thumb": "P5045075.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head perches among dense tree branches against a blue sky.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045100.JPG",
+          "thumb": "P5045100.webp",
+          "caption": "A green parrot with a distinctive yellow collar perches among the branches of a coniferous tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045164.JPG",
+          "thumb": "P5045164.webp",
+          "caption": "A green parrot with a dark head and a distinctive yellow collar perches among the dense branches of a tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045165.JPG",
+          "thumb": "P5045165.webp",
+          "caption": "A green parrot with a dark head and a yellow collar is perched among dense evergreen branches.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045170.JPG",
+          "thumb": "P5045170.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar perches among the dense branches of a coniferous tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045178.JPG",
+          "thumb": "P5045178.webp",
+          "caption": "A green parrot with a dark head and a distinctive yellow collar is perched among the branches of a tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045369.JPG",
+          "thumb": "P5045369.webp",
+          "caption": "A green parrot with a prominent yellow collar is perched on a branch and feeding on a seed pod.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045377.JPG",
+          "thumb": "P5045377.webp",
+          "caption": "A green parrot with a dark head and a prominent yellow collar is perched among the branches of a coniferous tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045378.JPG",
+          "thumb": "P5045378.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head perches among silhouetted tree branches against a bright sky.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045448.JPG",
+          "thumb": "P5045448.webp",
+          "caption": "A green parrot with a dark head and yellow collar perches among the branches and cones of a coniferous tree against a clear blue sky.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5044986.JPG",
+          "thumb": "P5044986.webp",
+          "caption": "A green parrot with a dark head and blue wing accents is perched among the branches and seed pods of a tree.",
+          "confidence": 0.85
+        },
+        {
+          "photo_id": "P5045013.JPG",
+          "thumb": "P5045013.webp",
+          "caption": "A green parrot with a distinct yellow collar and long tail is partially obscured while perched among the branches and seed pods of a tree.",
+          "confidence": 0.85
+        },
+        {
+          "photo_id": "P5045021.JPG",
+          "thumb": "P5045021.webp",
+          "caption": "A green parrot with a distinctive yellow collar and dark head perches among the branches and seed pods of a tree.",
+          "confidence": 0.85
+        },
+        {
+          "photo_id": "P5045099.JPG",
+          "thumb": "P5045099.webp",
+          "caption": "A green parrot with a dark head and a distinctive yellow collar perches among the branches of a coniferous tree.",
+          "confidence": 0.85
+        },
+        {
+          "photo_id": "P5045381.JPG",
+          "thumb": "P5045381.webp",
+          "caption": "A green parrot with a prominent yellow collar is perched among dark tree branches against a blue sky.",
+          "confidence": 0.85
+        },
+        {
+          "photo_id": "P5045001.JPG",
+          "thumb": "P5045001.webp",
+          "caption": "A green bird with a distinct yellow collar is partially obscured and out of focus within the dense branches of a tree.",
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "name": "Red-capped Parrot",
+      "slug": "red-capped-parrot",
+      "count": 12,
+      "cover_thumb": "P5045056.webp",
+      "avg_confidence": 0.95,
+      "entries": [
+        {
+          "photo_id": "P5045056.JPG",
+          "thumb": "P5045056.webp",
+          "caption": "A green parrot with a distinctive red cap and white cheek patch perches among dense tree branches against a blue sky.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045091.JPG",
+          "thumb": "P5045091.webp",
+          "caption": "A green parrot with a distinctive red cap and dark head is perched among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045092.JPG",
+          "thumb": "P5045092.webp",
+          "caption": "A green parrot with a distinctive red cap and dark head is perched among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045161.JPG",
+          "thumb": "P5045161.webp",
+          "caption": "A Red-capped Parrot with its distinctive green body and dark purple head is perched amidst dense evergreen branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045162.JPG",
+          "thumb": "P5045162.webp",
+          "caption": "A Red-capped Parrot with its distinctive red crown and purple-blue face is perched amidst dense green pine-like foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045205.JPG",
+          "thumb": "P5045205.webp",
+          "caption": "A vibrant green parrot with a distinctive red cap and dark head perches among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045206.JPG",
+          "thumb": "P5045206.webp",
+          "caption": "A green parrot with a distinctive red cap and dark face perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045207.JPG",
+          "thumb": "P5045207.webp",
+          "caption": "A green parrot with a distinctive red cap and long blue tail feathers perches among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045210.JPG",
+          "thumb": "P5045210.webp",
+          "caption": "A green parrot with a distinctive red cap and a long blue tail perches on a branch amidst dense foliage.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045211.JPG",
+          "thumb": "P5045211.webp",
+          "caption": "A green parrot with a distinctive red cap and long blue tail feathers perches among the branches of a tree.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045213.JPG",
+          "thumb": "P5045213.webp",
+          "caption": "A green parrot with a distinctive red cap and long blue tail feathers is perched among dense tree branches.",
+          "confidence": 0.95
+        },
+        {
+          "photo_id": "P5045160.JPG",
+          "thumb": "P5045160.webp",
+          "caption": "A Red-capped Parrot with a vibrant green body and dark blue head perches amidst dense evergreen branches.",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "name": "Nanday Parakeet",
+      "slug": "nanday-parakeet",
+      "count": 2,
+      "cover_thumb": "P5045444.webp",
+      "avg_confidence": 0.88,
+      "entries": [
+        {
+          "photo_id": "P5045444.JPG",
+          "thumb": "P5045444.webp",
+          "caption": "A green parakeet with a distinctive black hood is perched among the branches and cones of a coniferous tree.",
+          "confidence": 0.9
+        },
+        {
+          "photo_id": "P5045393.JPG",
+          "thumb": "P5045393.webp",
+          "caption": "A green parakeet with a distinct dark head is perched among dense tree branches, possibly feeding on seed pods.",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "name": "Australian King-Parrot",
+      "slug": "australian-king-parrot",
+      "count": 1,
+      "cover_thumb": "P5045193.webp",
+      "avg_confidence": 0.9,
+      "entries": [
+        {
+          "photo_id": "P5045193.JPG",
+          "thumb": "P5045193.webp",
+          "caption": "A green-headed bird with a bright red belly is perched among dense, needle-like branches.",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "name": "Red-rumped Parrot",
+      "slug": "red-rumped-parrot",
+      "count": 1,
+      "cover_thumb": "P5045199.webp",
+      "avg_confidence": 0.95,
+      "entries": [
+        {
+          "photo_id": "P5045199.JPG",
+          "thumb": "P5045199.webp",
+          "caption": "A male Red-rumped Parrot with bright green plumage and a distinctive red patch on its lower back is perched among the branches of a conifer.",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "name": "Twenty-eight Parrot",
+      "slug": "twenty-eight-parrot",
+      "count": 1,
+      "cover_thumb": "P5045146.webp",
+      "avg_confidence": 0.95,
+      "entries": [
+        {
+          "photo_id": "P5045146.JPG",
+          "thumb": "P5045146.webp",
+          "caption": "A green parrot with a black head, red forehead band, and yellow collar perches among the branches of a conifer tree.",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "name": "red-capped parrot",
+      "slug": "red-capped-parrot",
+      "count": 1,
+      "cover_thumb": "P5045208.webp",
+      "avg_confidence": 0.95,
+      "entries": [
+        {
+          "photo_id": "P5045208.JPG",
+          "thumb": "P5045208.webp",
+          "caption": "A green parrot with a distinctive red cap and long blue tail feathers perches on a branch amidst dense green foliage.",
+          "confidence": 0.95
+        }
+      ]
+    }
+  ]
+}
